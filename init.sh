@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 name=$1
 pwd1=$2
 web_port=30001
