@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 name=$1
 pwd1=$2
 if [ -n "$name" ]; then 
